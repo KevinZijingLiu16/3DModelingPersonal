@@ -838,8 +838,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AE0672 3D Modeling
-  metroPackageVersion: 
+  metroPackageName: AE06723DModeling
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -847,7 +847,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: AE0672 3D Modeling
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: AE0672 3D Modeling
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
